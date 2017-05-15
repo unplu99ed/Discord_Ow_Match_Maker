@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "lodash": "^4.17.4",
+    "shuffle-array": "^1.0.1"
+  }
+}
