@@ -1,5 +1,7 @@
 {
-  "token" : "Add Your Token",
+  "token" : "add your token",
   "gameSize" : 12,
-  "defaultRank" : 2000
+  "defaultRank" : 2000,
+  "region": "eu",
+  "platform": "pc"
 }
