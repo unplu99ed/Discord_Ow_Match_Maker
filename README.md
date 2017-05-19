@@ -12,14 +12,14 @@ Current supported commands:
 !url 		  - posts a link to our Overwatch Facebook Group and to our Github page  
 !version	- shows the current bot version  
 
-Installation:
-1. download nodeJS from https://nodejs.org/en/download/
-2. run npm -g install npm to be on the latest version
-3. Create your own bot on discord site (Check google/youtube if you are not familiar with how to do it)
-4. Download the files
-5. run npm install in the downloaded project folder
-6. Change the TOKEN in the config file.
-7. Run the bot with the command of "node app"
+Installation:  
+1. download nodeJS from https://nodejs.org/en/download/  
+2. run npm -g install npm to be on the latest version  
+3. Create your own bot on discord site (Check google/youtube if you are not familiar with how to do it)  
+4. Download the files  
+5. run npm install in the downloaded project folder  
+6. Change the TOKEN in the config file.  
+7. Run the bot with the command of "node app"  
 
 Once activated, the bot will run until terminated.
 
