@@ -6,15 +6,11 @@ The idea is simple. Once the bot is activated, it will take care of registering 
 
 Current supported commands:
 
-!register - register the player to the queue
-
-!remove 	- remove the player from the queue
-
-!status 	- displays the current players registered to the queue
-
-!url 		  - posts a link to our Overwatch Facebook Group and to our Github page
-
-!version	- shows the current bot version
+!register - register the player to the queue  
+!remove 	- remove the player from the queue  
+!status 	- displays the current players registered to the queue  
+!url 		  - posts a link to our Overwatch Facebook Group and to our Github page  
+!version	- shows the current bot version  
 
 Installation:
 1. download nodeJS from https://nodejs.org/en/download/
