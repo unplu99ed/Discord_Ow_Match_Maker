@@ -17,7 +17,7 @@ Installation:
 2. run npm -g install npm to be on the latest version  
 3. Create your own bot on discord site (Check google/youtube if you are not familiar with how to do it)  
 4. Download the files  
-5. run npm install in the downloaded project folder  
+5. Run npm install in the downloaded project folder  
 6. Change the TOKEN in the config file.  
 7. Run the bot with the command of "node app"  
 
@@ -25,11 +25,12 @@ Once activated, the bot will run until terminated.
 
 How this bot works:
 
-In order to register, a player MUST type !register <Battle tag> for example: !register Kaffa#12345. (Otherwise, registration wont  
-work and an error will be displayed).  
+In order to register, a player MUST type !register <Battle tag> for example: !register Kaffa#12345.  
+(Otherwise, registration wont work and an error will be displayed).  
 If a player wants to leave the queue, he should type !remove.  
 !status will print the current players registered into the queue.  
-When the list fills with 12 players (Changeable in config file), the bot will create 2 teams. Current version supports Random Shuffle  
+When the list fills with 12 players (Changeable in config file), the bot will create 2 teams.  
+Current version supports random shuffle only  
 for the players. We also plan on adding a balancing system - see Future Plans.  
 A message will now be displayed, showing the team players along with their SR. (Yes, we use Battle.net API to fetch SR information by Btag)  
 Now, a player must create a custom game, set the rules currectly and invite all the players into the game.  
@@ -41,11 +42,13 @@ It will also check if a player is already in the list and will not add him again
 
 
 Future plans:  
-Balance teams by SR. (High Priority)  
+Balance teams by SR. (High Priority).  
 Balance teams by main roles played.  
+Cosmetic changes to the bot.  
+Allow admin to quickly change the game size from 12 to any even number below it.  
+Allow the admin to change the need for Battle Tag (Low priority).  
 Random map chosen by the bot.  
 Specific map chosen by the admin.  
-Allow admin to quickly change the game size from 12 to any even number below it.  
-Allow the admin to change the need for Battle Tag (Low priority)  
-Cosmetic changes to the bot  
+
+
 
