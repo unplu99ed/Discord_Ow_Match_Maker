@@ -1,10 +1,10 @@
 {
-  "token" : "MzEzNzAwODIxOTUzMDE5OTE2.DASVlg.L58CZbw3NzHkGK0dRVVyeyVUc4U",
+  "token" : "Add Your Token",
   "gameSize" : 12,
   "defaultRank" : 2000,
   "region": "eu",
   "platform": "pc",
   "defaultTeamBalancingStrategies" : "splitBySR",
   "currentGameClearInMin" : 5,
-  "urlMessage" : "Facebook Group: https://www.facebook.com/groups/owisr20/"
+  "urlMessage" : ""
 }
