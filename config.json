@@ -1,10 +1,10 @@
 {
   "token" : "Add Your Token",
-  "gameSize" : 2,
+  "gameSize" : 12,
   "defaultRank" : 2000,
   "region": "eu",
   "platform": "pc",
-  "defaultTeamBalancingStrategies" : "randomize",
+  "defaultTeamBalancingStrategies" : "splitBySR",
   "currentGameClearInMin" : 5,
   "urlMessage" : ""
 }
